@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hackspace/alex/nvwebsocketexample/socket/CommunicationException.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hackspace/alex/nvwebsocketexample/socket/ISocket.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hackspace/alex/nvwebsocketexample/socket/ISocketListener.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/hackspace/alex/nvwebsocketexample/socket/NvWebSocket.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/image.png" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/image.png" charset="windows-1251" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
